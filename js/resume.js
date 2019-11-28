@@ -26,3 +26,11 @@
     });
 
 })(jQuery); // End of use strict
+
+var link = document.getElementById("link");
+var btn = document.getElementById("btn");
+
+function lien() {
+    link.style.display = "block";
+    btn.style.display = "none";
+}

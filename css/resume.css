@@ -210,3 +210,19 @@ a:active {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+.video-fluid {
+    width: 100%;
+}
+
+.d-blockw-100 {
+    width: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.h3marg {
+    margin-top: 80px;
+}

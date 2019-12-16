@@ -233,7 +233,7 @@ a:hover {
 }
 
 #btn {
-    border-radius: 6px;
+    border-radius: 2px;
     -webkit-transition-duration: 0.4s;
     /* Safari */
     transition-duration: 0.4s;

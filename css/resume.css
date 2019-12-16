@@ -233,7 +233,7 @@ a:active {
 }
 
 #btn {
-    border-radius: 6px white;
+    border-radius: 2px white;
     -webkit-transition-duration: 0.4s;
     /* Safari */
     transition-duration: 0.4s;

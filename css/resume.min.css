@@ -43,6 +43,15 @@ h3 {
     font-size: 2rem
 }
 
+h5 {
+    color: white;
+}
+
+.carousel-caption.d-none.d-md-block{
+    background-color: black;
+    border-radius: 20px;
+}
+
 p.lead {
     font-size: 1.15rem;
     font-weight: 400
